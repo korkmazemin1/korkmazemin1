@@ -1,4 +1,4 @@
-# Selamlar, Ben Muhammet Emin Korkmaz!
+# Selamlar, Ben Emin Korkmaz!
 
 👩‍💻 Şu anda **Büyük Dil Modelleri** ve **Bilgisayarlı Görü** alanında projeler geliştiriyorum.  
 📚 **PyTorch**, **LLM**, **RAG**, **LangChain** ve **OpenCV** gibi teknolojilerle yakından ilgileniyorum ve kendimi bu alanlarda sürekli geliştiriyorum.  
