@@ -50,15 +50,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=korkmazemin1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korkmazemin1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=korkmazemin1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=korkmazemin1&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=korkmazemin1&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="GitHub Streak" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korkmazemin1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css" alt="Top Languages" width="42%"/>
 </div>
-
-
 
 ---
 
@@ -85,31 +83,10 @@
 
 ---
 
-## 📊 Coding Activity & Skills
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korkmazemin1&theme=radical" width="95%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=korkmazemin1&theme=radical" width="47%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=korkmazemin1&theme=radical" width="47%"/>
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=korkmazemin1&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="95%"/>
-</div>
-
----
-
-## 📈 Fun Stats & Achievements
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=korkmazemin1&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Contributed Repos" width="500"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=korkmazemin1&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%"/>
 </div>
 
 ---
@@ -131,12 +108,10 @@
   </a>
 </div>
 
-
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=korkmazemin1&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=korkmazemin1&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 <div align="center">
@@ -147,4 +122,4 @@
   <i>✨ "The best way to predict the future is to invent it" - Alan Kay ✨</i>
   <br><br>
   <b>⭐️ From <a href="https://github.com/korkmazemin1">korkmazemin1</a> with 💙</b>
-</div>
+</div>****
