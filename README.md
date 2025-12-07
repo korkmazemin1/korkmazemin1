@@ -47,48 +47,38 @@ me.say_hi()
   <img src="https://streak-stats.demolab.com?user=korkmazemin1&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="GitHub Streak" width="500"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=korkmazemin1&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" width="95%"/>
-</div>
+
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Skill Levels
 
-### 💻 Languages
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,vhdl,js,nodejs&theme=dark" />
 </p>
 
-### 🤖 AI/ML Frameworks
+### 🤖 AI/ML & Computer Vision
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD000?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+  <img src="https://img.shields.io/badge/🦙_LLaMA-8A2BE2?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD000?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Vector Stores
+### 🧰 Development Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6C37?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,github&theme=dark" />
 </p>
 
-### ☁️ Cloud & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+---
+
+## 📊 Coding Activity & Skills
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@korkmazemin1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&custom_title=Weekly%20Coding%20Stats" alt="Wakatime Stats" width="500"/>
+</div>
 
 ---
 
@@ -100,7 +90,7 @@ me.say_hi()
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Fun Stats & Achievements
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=korkmazemin1&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Contributed Repos" width="500"/>
