@@ -1,9 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,18,20,24&text=Emin%20Korkmaz&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20LLMs%20|%20Computer%20Vision%20|%20Deep%20Learning&descAlignY=55&descSize=20" width="100%"/>
-</div>
+  
+  <!-- Sleek particle background with name -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=0:667eea,100:764ba2&text=&animation=fadeIn" width="100%"/>
+  
+  <!-- Modern text overlay -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=45&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=false&width=435&lines=EMIN+KORKMAZ" alt="Name" />
+  </h1>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=AI+Engineer+%26+Researcher+%F0%9F%A7%A0;Specializing+in+LLMs+%26+Computer+Vision+%F0%9F%91%81%EF%B8%8F" alt="Title" />
+  </p>
+  
+  <!-- Animated tech badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/LLaMA-8A2BE2?style=flat-square&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
+  </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Building+AI+Solutions+%F0%9F%A4%96;LLMs+%7C+Computer+Vision+%7C+PyTorch+%F0%9F%94%A5;Let's+Create+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ---
