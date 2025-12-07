@@ -1,38 +1,49 @@
-<!-- Dynamic Typing Animation Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Emin+Korkmaz;AI+Engineer+%26+Researcher;LLMs+%7C+Computer+Vision+%7C+RAG" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=Emin%20Korkmaz&fontSize=70&fontColor=fff&animation=fadeIn&desc=AI%20Engineer%20%7C%20LLMs%20%7C%20Computer%20Vision%20Expert&descSize=25&descAlignY=65" width="100%"/>
 </div>
-
-<!-- Animated Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
-</p>
 
 ---
 
 ## 🚀 About Me
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Emin Korkmaz"
-        self.role = "AI Engineer & Researcher"
-        self.location = "Bursa, Turkey 🇹🇷"
-        self.interests = ["LLMs", "Computer Vision", "RAG Systems"]
-        self.current_focus = ["PyTorch", "LangChain", "OpenCV", "Transformers"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+<table>
+<tr>
+<td width="50%">
 
-me = AIEngineer()
-me.say_hi()
-```
+### 👨‍💻 Who am I?
 
-- 🔭 Currently working on **Large Language Models, RAG Pipelines & Computer Vision**
-- 🌱 Deep diving into **Advanced PyTorch, LangChain & Multimodal AI**
-- 🎯 Goal: Building AI tools that make learning faster and more accessible
-- 💡 Always exploring cutting-edge AI research and open-source projects
-- ⚡ Fun fact: I believe AI should empower everyone, not just experts!
+🎯 **AI Engineer & Researcher** passionate about pushing the boundaries of artificial intelligence
+
+🔬 **Current Focus:**
+- 🧠 Large Language Models (LLMs)
+- 👁️ Computer Vision Systems
+- 🔗 RAG (Retrieval-Augmented Generation)
+- 🤖 Multimodal AI Applications
+
+</td>
+<td width="50%">
+
+### 🌱 Always Learning
+
+📚 Deep diving into:
+- PyTorch & Advanced Neural Networks
+- LangChain & LLM Orchestration
+- OpenCV & Real-time Vision
+- Transformer Architectures
+
+💡 **Mission:** Building AI tools that democratize knowledge and make learning accessible to everyone!
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
+### ⚡ Quick Facts
+
+🇹🇷 Based in Bursa, Turkey | 🌍 Building solutions for global impact | 🎓 Always experimenting with cutting-edge research
+
+</div>
 
 ---
 
@@ -77,7 +88,12 @@ me.say_hi()
 ## 📊 Coding Activity & Skills
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@korkmazemin1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&custom_title=Weekly%20Coding%20Stats" alt="Wakatime Stats" width="500"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korkmazemin1&theme=radical" width="95%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=korkmazemin1&theme=radical" width="47%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=korkmazemin1&theme=radical" width="47%"/>
 </div>
 
 ---
@@ -115,13 +131,7 @@ me.say_hi()
   </a>
 </div>
 
----
 
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
 
 ---
 
@@ -129,9 +139,9 @@ me.say_hi()
   <img src="https://komarev.com/ghpvc/?username=korkmazemin1&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
+</div>
 
 <div align="center">
   <i>✨ "The best way to predict the future is to invent it" - Alan Kay ✨</i>
