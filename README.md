@@ -1,24 +1,28 @@
 <div align="center">
   
-  <!-- Sleek particle background with name -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=0:667eea,100:764ba2&text=&animation=fadeIn" width="100%"/>
+  <!-- Neural network animated background -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,3,5,6&text=&animation=twinkling&section=header" width="100%"/>
   
-  <!-- Modern text overlay -->
+  <div style="margin-top: -180px; position: relative;">
+    
+  <!-- Modern text overlay with glow effect -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=45&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=false&width=435&lines=EMIN+KORKMAZ" alt="Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=500&lines=EMIN+KORKMAZ" alt="Name" />
   </h1>
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=AI+Engineer+%26+Researcher+%F0%9F%A7%A0;Specializing+in+LLMs+%26+Computer+Vision+%F0%9F%91%81%EF%B8%8F" alt="Title" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=AI+Engineer+%26+Researcher+%F0%9F%A7%A0;Specializing+in+LLMs+%26+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Building+the+Future+with+Neural+Networks+%E2%9A%A1" alt="Title" />
   </p>
   
-  <!-- Animated tech badges -->
+  <!-- Tech badges with blue theme -->
   <p align="center">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/LLaMA-8A2BE2?style=flat-square&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/🦙_LLaMA-3B82F6?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangChain-1E40AF?style=for-the-badge&logo=chainlink&logoColor=white" />
   </p>
+  
+  </div>
 
 </div>
 
