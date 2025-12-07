@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=Emin%20Korkmaz&fontSize=70&fontColor=fff&animation=fadeIn&desc=AI%20Engineer%20%7C%20LLMs%20%7C%20Computer%20Vision%20Expert&descSize=25&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,18,20,24&text=Emin%20Korkmaz&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20LLMs%20|%20Computer%20Vision%20|%20Deep%20Learning&descAlignY=55&descSize=20" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Building+AI+Solutions+%F0%9F%A4%96;LLMs+%7C+Computer+Vision+%7C+PyTorch+%F0%9F%94%A5;Let's+Create+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ---
@@ -122,4 +126,4 @@
   <i>✨ "The best way to predict the future is to invent it" - Alan Kay ✨</i>
   <br><br>
   <b>⭐️ From <a href="https://github.com/korkmazemin1">korkmazemin1</a> with 💙</b>
-</div>****
+</div>
