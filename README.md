@@ -64,13 +64,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=korkmazemin1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=korkmazemin1&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=korkmazemin1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=korkmazemin1&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korkmazemin1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css,jupyter%20notebook" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=korkmazemin1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korkmazemin1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css,jupyter%20notebook" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=korkmazemin1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB" alt="Contribution Graph" width="49%"/>
 </div>
 
 ---
